@@ -83,6 +83,7 @@ header {
     justify-content: center;
     align-items: center;
     padding: 75px;
+    width: 90rem;
 }
 
 .sobre-nos h5 {
@@ -131,6 +132,9 @@ main {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+main img{
+    width: 80%;
 }
 
 main h5 {
