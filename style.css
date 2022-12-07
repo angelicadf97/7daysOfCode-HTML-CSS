@@ -33,7 +33,7 @@ header {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    width: 80%;
+    width: 90rem;
     height: 44px;
 }
 
@@ -107,7 +107,7 @@ header {
     justify-content: center;
     align-items: space-between;
     padding: 4rem 0;
-    width: 80%;
+    width: 90rem;
 }
 
 .metricas div {
@@ -177,7 +177,7 @@ main .vagas {
     justify-content: center;
     align-items: center;
     padding: 2rem;
-    width: 80%;
+    width: 90rem;
     background: rgba(196, 25, 25, 0.03);
     border-radius: 16px;
     text-align: center;
